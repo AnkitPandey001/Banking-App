@@ -2,9 +2,9 @@
 
 const SignUp = () => {
     return (
-      <div>
-        <h1>SignUp</h1>
-      </div>
+      <main>
+       <h1>Signup</h1>
+      </main>
     )
   }
   

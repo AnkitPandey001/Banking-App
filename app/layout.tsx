@@ -11,8 +11,8 @@ const ibmPlexSerif = IBM_Plex_Serif({
 })
 
 export const metdata:Metadata={
-  title:"Horizon",
-  description:"Horizon is mdoern banking plateform for everyone",
+  title:"BankSphere",
+  description:"BankSphere is mdoern banking plateform for everyone",
   icons:{
     icon:'/icons/logo.svg'
   }
