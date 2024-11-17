@@ -2,6 +2,9 @@
 
 **Banking App** is a modern web application built with [Next.js](https://nextjs.org). It enables users to securely manage bank cards, make payments, and track their transactions in real-time. The app integrates advanced features like spending insights, budget tracking, and payment gateway integration to provide a comprehensive solution for personal finance management.
 
+![Banking App] ![Screenshot (258)](https://github.com/user-attachments/assets/9241177d-2293-4723-a738-b320c01252c9)
+
+
 ## 🚀 Features
 
 - **Secure Payment Integration**: Make payments securely with industry-standard encryption.
@@ -26,4 +29,5 @@ This project uses a combination of modern technologies to ensure performance, se
 ---
 
 ## 🏁 Getting Started
+
 
