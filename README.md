@@ -27,8 +27,3 @@ This project uses a combination of modern technologies to ensure performance, se
 
 ## 🏁 Getting Started
 
-To get started with the Banking App, follow these steps:
-
-### 1. Clone the repository
-```bash
-git clone https://github.com/yourusername/banking-app.git
